@@ -48,10 +48,4 @@ Validates that all 5 vulnerabilities are active in Vulnerable Mode and all 5 are
 
 ---
 
-## 👥 Suggested Group Allocation (Max 3 Students)
-
-* **Student 1:** Project setup, architecture, and Vulnerability 1 (SQL Injection).
-* **Student 2:** Vulnerability 2 (IDOR) and Vulnerability 3 (XSS).
-* **Student 3:** Vulnerability 4 (Broken Auth), Vulnerability 5 (Misconfiguration), and Report compilation.
-
 Refer to `docs/SCREENCAST_PRESENTATION_SCRIPT.md` for exact speaking cues and timestamps.
